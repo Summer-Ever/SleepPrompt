@@ -1,0 +1,18 @@
+# Build artifacts - compile locally with build.bat
+*.exe
+*.pdb
+*.dll
+*.zip
+bin/
+obj/
+
+# Local backups, logs and test output
+*.bak
+*.log
+*.pyc
+backup/
+desktop-backup/
+__pycache__/
+
+# Windows shortcut binaries (source .ps1 / .cs / .bat are tracked)
+*.lnk

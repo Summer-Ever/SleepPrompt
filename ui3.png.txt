@@ -1,0 +1,1 @@
+opacity=1 w=1248 h=808 scale=2
